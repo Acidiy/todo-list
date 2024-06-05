@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+}
+
+.flow{
+    width: 100vw;
+    height: 200px;
+    background-color: rgb(169, 169, 169);
+    display: flex;
+    align-items: center;
+}
+
+.item{
+    margin-left: 20px;
+    width: 200px;
+    height: 100%;
+    border-radius: 40px;
+    background-color: black;
+}
+
+.item .img{
+    width: 200px;
+    height: 100%;
+    border-radius: 40px;
+}
